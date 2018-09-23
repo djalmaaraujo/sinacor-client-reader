@@ -33,7 +33,7 @@ describe('#clearingTotal', () => {
     expect(typeof sinacorFileStocks.clearingTotal()).toEqual('number');
   })
 
-  it('expect to return 308.53~ using fixture file', () => {
+  it('expect to return 18.9 using different fixture file', () => {
     expect(sinacorFileStocks.clearingTotal()).toEqual(18.9);
   })
 })
