@@ -17,23 +17,23 @@ describe('#constructor', () => {
   });
 });
 
-describe('#corretagemTotal', () => {
+describe('#clearingTotal', () => {
   const sinacorFileDerivatives = new XPSinacor(fixtureDerivatives);
   const sinacorFileStocks = new XPSinacor(fixtureStocks);
 
   it('expect to be a number', () => {
-    expect(typeof sinacorFileDerivatives.corretagemTotal()).toEqual('number');
+    expect(typeof sinacorFileDerivatives.clearingTotal()).toEqual('number');
   })
 
   it('expect to return 308.53~ using fixture file', () => {
-    expect(sinacorFileDerivatives.corretagemTotal()).toEqual(308.53999999999996);
+    expect(sinacorFileDerivatives.clearingTotal()).toEqual(308.53999999999996);
   })
 
   it('expect to be a number', () => {
-    expect(typeof sinacorFileStocks.corretagemTotal()).toEqual('number');
+    expect(typeof sinacorFileStocks.clearingTotal()).toEqual('number');
   })
 
   it('expect to return 308.53~ using fixture file', () => {
-    expect(sinacorFileStocks.corretagemTotal()).toEqual(18.9);
+    expect(sinacorFileStocks.clearingTotal()).toEqual(18.9);
   })
 })

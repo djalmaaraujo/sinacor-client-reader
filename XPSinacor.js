@@ -3,7 +3,7 @@ module.exports = class XPSinacor {
     this.data = fileString.split("\n");
   }
 
-  corretagemTotal() {
+  clearingTotal() {
     const str = 'ClearingD';
     const lines = [ ...this.data.filter((line) => line.indexOf(str) > -1) ];
     const amount = lines.reduce((acc, item) => {
