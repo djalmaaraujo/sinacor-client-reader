@@ -1,0 +1,144 @@
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTABRASIL          ON EJ NM10026,952.695,00D
+1-BOVESPACVISTABRASIL          ON EJ NM10026,952.695,00D
+1-BOVESPACVISTABRASIL          ON EJ NM1.60026,9543.120,00D
+NOTA DE CORRETAGEM
+Nr. nota12086934Folha1Data pregão14/09/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2511594DJALMA ARAUJO DE ANDRADE
+RUA DOUTOR JOSE MARIA, 512 - APT 1205 ENCRUZILHADATel. (011) 93014-9109
+52041-015 RECIFE - PE
+-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+052.789.014-62C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2511594Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincN
+0,00
+0,00
+48.510,00
+0,00
+0,00
+0,00
+0,00
+48.510,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+48.523,34Total CBLCD
+48.510,00Valor líquido das operaçõesD
+13,34Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+2,37Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+2,37EmolumentosD
+
+304,03Total corretagem / DespesasD
+
+267,76ClearingD
+0,00Execução
+0,00Execução casa
+25,83ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+10,44Outras BovespaD
+48.829,74Líquido para 19/09/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 4003-3710 Demais localidades: 0800-880-3710 SAC: 0800-772-0202 Ouvidoria: 0800-722-3710
+----------------Page (0) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVOPCAO DE COMPRA10/18BBASJ57          ON 27,41      BBAS /EJ1.8001,733.114,00C
+NOTA DE CORRETAGEM
+Nr. nota12086933Folha1Data pregão14/09/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2511594DJALMA ARAUJO DE ANDRADE
+RUA DOUTOR JOSE MARIA, 512 - APT 1205 ENCRUZILHADATel. (011) 93014-9109
+52041-015 RECIFE - PE
+-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+052.789.014-62C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2511594Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincN
+0,00
+0,00
+0,00
+0,00
+3.114,00
+0,00
+0,00
+3.114,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+3.110,99Total CBLCC
+3.114,00Valor líquido das operaçõesC
+0,85Taxa de liquidaçãoD
+2,16Taxa de RegistroD
+1,15Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+1,15EmolumentosD
+
+46,30Total corretagem / DespesasD
+
+40,78ClearingD
+0,00Execução
+0,00Execução casa
+3,93ISS (SÃO PAULO)D
+0,15I.R.R.F. s/ operações, base R$3.114,00
+1,59Outras BovespaD
+3.063,54Líquido para 17/09/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 4003-3710 Demais localidades: 0800-880-3710 SAC: 0800-772-0202 Ouvidoria: 0800-722-3710
+----------------Page (1) Break----------------

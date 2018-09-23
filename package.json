@@ -1,0 +1,14 @@
+{
+  "name": "xp-sinacor-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "XPSinacor.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Djalma Araujo",
+  "license": "MIT"
+}

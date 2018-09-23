@@ -1,0 +1,71 @@
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTASID NACIONAL          ON1009,57957,00D
+NOTA DE CORRETAGEM
+Nr. nota11846403Folha1Data pregão09/08/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2511594DJALMA ARAUJO DE ANDRADE
+RUA DOUTOR JOSE MARIA, 512 - APT 1205 ENCRUZILHADATel. (011) 93014-9109
+52041-015 RECIFE - PE
+-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+052.789.014-62C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2511594Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincN
+0,00
+0,00
+957,00
+0,00
+0,00
+0,00
+0,00
+957,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+957,26Total CBLCD
+957,00Valor líquido das operaçõesD
+0,26Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+0,04Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+0,04EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,73Outras BovespaD
+978,75Líquido para 14/08/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+Capitais e regiões metropolitanas: 4003-3710 Demais localidades: 0800-880-3710 SAC: 0800-772-0202 Ouvidoria: 0800-722-3710
+----------------Page (0) Break----------------
