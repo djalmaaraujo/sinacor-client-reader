@@ -1,0 +1,2145 @@
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVOPCAO DE VENDA06/18BBASR68          ON 26,99      BBASE FM1.2001,111.332,00C
+1-BOVESPAVOPCAO DE VENDA06/18CSNAR82          ON 8,20      CSNAE FM4.0000,351.400,00C
+1-BOVESPAVOPCAO DE VENDA06/18PETRR96          PN 15,46      PETRE FM2.0000,731.460,00C
+1-BOVESPAVOPCAO DE VENDA06/18PETRR96          PN 15,46      PETRE FM1000,7373,00C
+NOTA DE CORRETAGEM
+Nr. nota11427434Folha1Data pregão08/06/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+0,00
+4.265,00
+0,00
+0,00
+4.265,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+4.260,87Total CBLCC
+4.265,00Valor líquido das operaçõesC
+1,17Taxa de liquidaçãoD
+2,96Taxa de RegistroD
+1,57Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+1,57EmolumentosD
+
+64,38Total corretagem / DespesasD
+
+56,70ClearingD
+0,00Execução
+0,00Execução casa
+5,47ISS (SÃO PAULO)D
+0,21I.R.R.F. s/ operações, base R$4.265,00
+2,21Outras BovespaD
+4.194,92Líquido para 11/06/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (0) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACEXERC OPC VENDA06/18BBASE /EJ          ON 26,921.20026,9232.304,00D
+1-BOVESPACEXERC OPC VENDA06/18CSNAE          ON 8,20#4.0008,2032.800,00D
+1-BOVESPACEXERC OPC VENDA06/18PETRE          PN 15,462.10015,4632.466,00D
+NOTA DE CORRETAGEM
+Nr. nota11484384Folha1Data pregão18/06/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+97.570,00
+0,00
+0,00
+0,00
+0,00
+97.570,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+97.589,51Total CBLCD
+97.570,00Valor líquido das operaçõesD
+19,51Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+4,29Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+4,29EmolumentosD
+
+582,57Total corretagem / DespesasD
+
+513,06ClearingD
+0,00Execução
+0,00Execução casa
+49,51ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+20,00Outras BovespaD
+98.176,37Líquido para 21/06/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (1) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVVISTAPETROBRAS          PN N22.10015,9233.432,00C
+NOTA DE CORRETAGEM
+Nr. nota11504549Folha1Data pregão20/06/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+33.432,00
+0,00
+0,00
+0,00
+0,00
+0,00
+33.432,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+33.422,81Total CBLCC
+33.432,00Valor líquido das operaçõesC
+9,19Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+1,47Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+1,47EmolumentosD
+
+23,12Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+1,67I.R.R.F. s/ operações, base R$33.432,00D
+0,73Outras BovespaD
+33.398,22Líquido para 25/06/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (2) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVOPCAO DE COMPRA07/18BBASG275          ON 27,48      BBAS FM1.2001,151.380,00C
+NOTA DE CORRETAGEM
+Nr. nota11534806Folha1Data pregão26/06/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+0,00
+1.380,00
+0,00
+0,00
+1.380,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+1.378,68Total CBLCC
+1.380,00Valor líquido das operaçõesC
+0,37Taxa de liquidaçãoD
+0,95Taxa de RegistroD
+0,51Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+0,51EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,06I.R.R.F. s/ operações, base R$1.380,00
+0,73Outras BovespaD
+1.356,72Líquido para 27/06/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (3) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTASID NACIONAL          ON1.9007,5314.307,00D
+1-BOVESPACVISTASID NACIONAL          ON1.0007,527.520,00D
+1-BOVESPACVISTASID NACIONAL          ON1.0007,537.530,00D
+1-BOVESPACVISTASID NACIONAL          ON1.3007,539.789,00D
+1-BOVESPACVISTASID NACIONAL          ON3.1007,5223.312,00D
+1-BOVESPACVISTASID NACIONAL          ON1007,52752,00D
+1-BOVESPACVISTASID NACIONAL          ON7007,535.271,00D
+1-BOVESPACVISTASID NACIONAL          ON7007,535.271,00D
+1-BOVESPACVISTASID NACIONAL          ON2.9007,5321.837,00D
+1-BOVESPACVISTASID NACIONAL          ON5007,523.760,00D
+NOTA DE CORRETAGEM
+Nr. nota11534807Folha1Data pregão26/06/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+99.349,00
+0,00
+0,00
+0,00
+0,00
+99.349,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+99.376,32Total CBLCD
+99.349,00Valor líquido das operaçõesD
+27,32Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+4,36Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+4,36EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,73Outras BovespaD
+99.402,13Líquido para 29/06/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (4) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVVISTASID NACIONAL          ON1.9007,8614.934,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,86786,00C
+1-BOVESPAVVISTASID NACIONAL          ON7007,865.502,00C
+1-BOVESPAVVISTASID NACIONAL          ON1.9007,8614.934,00C
+1-BOVESPAVVISTASID NACIONAL          ON2.1007,8616.506,00C
+1-BOVESPAVVISTASID NACIONAL          ON2.7007,8621.222,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,86786,00C
+1-BOVESPAVVISTASID NACIONAL          ON7007,865.502,00C
+1-BOVESPAVVISTASID NACIONAL          ON3007,862.358,00C
+1-BOVESPAVVISTASID NACIONAL          ON5007,863.930,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,86786,00C
+1-BOVESPAVVISTASID NACIONAL          ON1.0007,867.860,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,86786,00C
+1-BOVESPAVVISTASID NACIONAL          ON1.0007,867.860,00C
+NOTA DE CORRETAGEM
+Nr. nota11559692Folha1Data pregão29/06/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+103.752,00
+0,00
+0,00
+0,00
+0,00
+0,00
+103.752,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+103.723,47Total CBLCC
+103.752,00Valor líquido das operaçõesC
+28,53Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+4,56Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+4,56EmolumentosD
+
+26,63Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+5,18I.R.R.F. s/ operações, base R$103.752,00D
+0,73Outras BovespaD
+103.692,28Líquido para 04/07/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (5) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTASID NACIONAL          ON2.5007,6519.125,00D
+1-BOVESPACVISTASID NACIONAL          ON2.9007,6522.185,00D
+1-BOVESPACVISTASID NACIONAL          ON1.0007,657.650,00D
+1-BOVESPACVISTASID NACIONAL          ON7007,655.355,00D
+1-BOVESPACVISTASID NACIONAL          ON#3.2007,6524.480,00D
+1-BOVESPACVISTASID NACIONAL          ON2.7007,6520.655,00D
+NOTA DE CORRETAGEM
+Nr. nota11567404Folha1Data pregão02/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+99.450,00
+0,00
+0,00
+0,00
+0,00
+99.450,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+99.477,34Total CBLCD
+99.450,00Valor líquido das operaçõesD
+27,34Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+4,37Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+4,37EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,73Outras BovespaD
+99.503,16Líquido para 05/07/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (6) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVVISTASID NACIONAL          ON13.0007,90102.700,00C
+NOTA DE CORRETAGEM
+Nr. nota11577101Folha1Data pregão03/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+102.700,00
+0,00
+0,00
+0,00
+0,00
+0,00
+102.700,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+102.671,76Total CBLCC
+102.700,00Valor líquido das operaçõesC
+28,24Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+4,84Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+4,84EmolumentosD
+
+26,58Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+5,13I.R.R.F. s/ operações, base R$102.700,00D
+0,73Outras BovespaD
+102.640,34Líquido para 06/07/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (7) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTAPETROBRAS          PN N26.00017,73106.380,00D
+NOTA DE CORRETAGEM
+Nr. nota11586912Folha1Data pregão04/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+106.380,00
+0,00
+0,00
+0,00
+0,00
+106.380,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+106.409,25Total CBLCD
+106.380,00Valor líquido das operaçõesD
+29,25Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+5,02Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+5,02EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,73Outras BovespaD
+106.435,72Líquido para 10/07/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (8) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVVISTAPETROBRAS          PN N26.00018,30109.800,00C
+1-BOVESPACVISTASID NACIONAL          ON1007,86786,00D
+1-BOVESPACVISTASID NACIONAL          ON1.2007,869.432,00D
+1-BOVESPACVISTASID NACIONAL          ON1007,86786,00D
+1-BOVESPACVISTASID NACIONAL          ON6007,954.770,00D
+1-BOVESPACVISTASID NACIONAL          ON5007,953.975,00D
+1-BOVESPACVISTASID NACIONAL          ON2.5007,9519.875,00D
+1-BOVESPACVISTASID NACIONAL          ON1007,95795,00D
+1-BOVESPACVISTASID NACIONAL          ON2.1007,8616.506,00D
+1-BOVESPACVISTASID NACIONAL          ON2007,861.572,00D
+1-BOVESPACVISTASID NACIONAL          ON1007,95795,00D
+1-BOVESPACVISTASID NACIONAL          ON1.7007,9513.515,00D
+1-BOVESPACVISTASID NACIONAL          ON1007,86786,00D
+1-BOVESPACVISTASID NACIONAL          ON2.5007,9519.875,00D
+1-BOVESPACVISTASID NACIONAL          ON2007,861.572,00D
+NOTA DE CORRETAGEM
+Nr. nota11615873Folha1Data pregão10/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+109.800,00
+95.040,00
+0,00
+0,00
+0,00
+0,00
+204.840,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+14.703,67Total CBLCC
+14.760,00Valor líquido das operaçõesC
+56,33Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+9,67Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+9,67EmolumentosD
+
+69,86Total corretagem / DespesasD
+
+56,69ClearingD
+0,00Execução
+0,00Execução casa
+5,47ISS (SÃO PAULO)D
+5,49I.R.R.F. s/ operações, base R$109.800,00D
+2,21Outras BovespaD
+14.624,14Líquido para 13/07/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (9) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACTERMO30SID NACIONAL          ON#1.8607,7014.322,00D
+1-BOVESPACTERMO30SID NACIONAL          ON#8.1407,7162.759,40D
+1-BOVESPACVISTASID NACIONAL          ON6.5007,7350.245,00D
+NOTA DE CORRETAGEM
+Nr. nota11624988Folha1Data pregão11/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+50.245,00
+0,00
+0,00
+77.081,40
+0,00
+127.326,40
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+50.295,03Total CBLCD
+50.245,00Valor líquido das operaçõesD
+35,00Taxa de liquidaçãoD
+15,03Taxa de RegistroD
+16,24Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+16,24EmolumentosD
+
+487,70Total corretagem / DespesasD
+
+429,51ClearingD
+0,00Execução
+0,00Execução casa
+41,44ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+16,75Outras BovespaD
+50.798,97Líquido para 16/07/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (10) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+1-BOVESPAVVISTASID NACIONAL          ON9.1007,9972.709,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+1-BOVESPAVVISTASID NACIONAL          ON1007,99799,00C
+NOTA DE CORRETAGEM
+Nr. nota11634225Folha1Data pregão12/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+79.900,00
+0,00
+0,00
+0,00
+0,00
+0,00
+79.900,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+79.878,03Total CBLCC
+79.900,00Valor líquido das operaçõesC
+21,97Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+3,77Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+3,77EmolumentosD
+
+25,44Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+3,99I.R.R.F. s/ operações, base R$79.900,00D
+0,73Outras BovespaD
+79.848,82Líquido para 17/07/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (11) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVOPCAO DE COMPRA08/18CSNAH82          ON 8,20      CSNA FM22.5000,409.000,00C
+NOTA DE CORRETAGEM
+Nr. nota11654423Folha1Data pregão16/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+0,00
+9.000,00
+0,00
+0,00
+9.000,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+8.991,28Total CBLCC
+9.000,00Valor líquido das operaçõesC
+2,47Taxa de liquidaçãoD
+6,25Taxa de RegistroD
+3,33Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+3,33EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,45I.R.R.F. s/ operações, base R$9.000,00
+0,73Outras BovespaD
+8.966,50Líquido para 17/07/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (12) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVEXERC OPC COMPRA07/18BBAS          ON 27,481.20027,4832.976,00C
+1-BOVESPACVISTASID NACIONAL          ON3.1007,9224.552,00D
+1-BOVESPACVISTASID NACIONAL          ON6.9007,9254.648,00D
+NOTA DE CORRETAGEM
+Nr. nota11654424Folha1Data pregão16/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+32.976,00
+79.200,00
+0,00
+0,00
+0,00
+0,00
+112.176,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+46.252,37Total CBLCD
+46.224,00Valor líquido das operaçõesD
+28,37Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+5,29Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+5,29EmolumentosD
+
+135,00Total corretagem / DespesasD
+
+118,90ClearingD
+0,00Execução
+0,00Execução casa
+11,47ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+4,63Outras BovespaD
+46.392,66Líquido para 19/07/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (13) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVVISTASID NACIONAL          ON1008,20820,00C
+1-BOVESPAVVISTASID NACIONAL          ON7008,205.740,00C
+1-BOVESPAVVISTASID NACIONAL          ON1.8008,2014.760,00C
+1-BOVESPAVVISTASID NACIONAL          ON1.0008,208.200,00C
+1-BOVESPAVVISTASID NACIONAL          ON1.0008,208.200,00C
+1-BOVESPAVVISTASID NACIONAL          ON1008,20820,00C
+1-BOVESPAVVISTASID NACIONAL          ON3.6008,2029.520,00C
+1-BOVESPAVVISTASID NACIONAL          ON5008,204.100,00C
+1-BOVESPAVVISTASID NACIONAL          ON3008,202.460,00C
+1-BOVESPAVVISTASID NACIONAL          ON1008,20820,00C
+1-BOVESPAVVISTASID NACIONAL          ON7008,205.740,00C
+1-BOVESPAVVISTASID NACIONAL          ON1008,20820,00C
+NOTA DE CORRETAGEM
+Nr. nota11676340Folha1Data pregão18/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+82.000,00
+0,00
+0,00
+0,00
+0,00
+0,00
+82.000,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+81.977,45Total CBLCC
+82.000,00Valor líquido das operaçõesC
+22,55Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+3,87Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+3,87EmolumentosD
+
+25,55Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+4,10I.R.R.F. s/ operações, base R$82.000,00D
+0,73Outras BovespaD
+81.948,03Líquido para 23/07/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (14) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACOPCAO DE COMPRA08/18VALEH586          ON 58,22      VALEE5000,28140,00D
+1-BOVESPACOPCAO DE COMPRA08/18VALEH586          ON 58,22      VALEE3.3000,28924,00D
+1-BOVESPACOPCAO DE COMPRA08/18VALEH586          ON 58,22      VALEE6.2000,281.736,00D
+1-BOVESPACOPCAO DE VENDA08/18VALET456          ON 45,22      VALEE FM10.0000,242.400,00D
+NOTA DE CORRETAGEM
+Nr. nota11729526Folha1Data pregão25/07/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+5.200,00
+0,00
+0,00
+0,00
+5.200,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+5.205,04Total CBLCD
+5.200,00Valor líquido das operaçõesD
+1,43Taxa de liquidaçãoD
+3,61Taxa de RegistroD
+1,92Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+1,92EmolumentosD
+
+42,91Total corretagem / DespesasD
+
+37,80ClearingD
+0,00Execução
+0,00Execução casa
+3,64ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+1,47Outras BovespaD
+5.249,87Líquido para 26/07/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (15) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTAUSIMINAS          PNA N1D12.8007,7599.200,00D
+1-BOVESPAVVISTAUSIMINAS          PNA N1D4008,003.200,00C
+1-BOVESPAVVISTAUSIMINAS          PNA N1D4.5008,0036.000,00C
+1-BOVESPAVVISTAUSIMINAS          PNA N1D7.5008,0060.000,00C
+1-BOVESPAVVISTAUSIMINAS          PNA N1D4008,003.200,00C
+NOTA DE CORRETAGEM
+Nr. nota11858102Folha1Data pregão10/08/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+102.400,00
+99.200,00
+0,00
+0,00
+0,00
+0,00
+201.600,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+IRRF Day Trade: Base R$ 3.125,64 Projeção R$ 31,25O valor do IRRF s/ Day Trade já está descontado do Líquido da Nota
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+3.159,68Total CBLCC
+3.200,00Valor líquido das operaçõesC
+40,32Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+10,04Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+10,04EmolumentosD
+
+27,24Total corretagem / DespesasD
+
+24,00ClearingD
+0,00Execução
+0,00Execução casa
+2,31ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,93Outras BovespaD
+3.091,15Líquido para 15/08/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (16) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVOPCAO DE COMPRA08/18PETRH20          PN 19,96      PETR7.6000,403.040,00C
+NOTA DE CORRETAGEM
+Nr. nota11868707Folha1Data pregão13/08/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+0,00
+3.040,00
+0,00
+0,00
+3.040,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+3.037,06Total CBLCC
+3.040,00Valor líquido das operaçõesC
+0,83Taxa de liquidaçãoD
+2,11Taxa de RegistroD
+1,12Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+1,12EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,15I.R.R.F. s/ operações, base R$3.040,00
+0,73Outras BovespaD
+3.014,49Líquido para 14/08/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (17) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTAPETROBRAS          PN N210019,731.973,00D
+1-BOVESPACVISTAPETROBRAS          PN N230019,735.919,00D
+1-BOVESPACVISTAPETROBRAS          PN N250019,739.865,00D
+1-BOVESPACVISTAPETROBRAS          PN N250019,739.865,00D
+1-BOVESPACVISTAPETROBRAS          PN N25.70019,73112.461,00D
+1-BOVESPACVISTAPETROBRAS          PN N250019,739.865,00D
+NOTA DE CORRETAGEM
+Nr. nota11868708Folha1Data pregão13/08/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+149.948,00
+0,00
+0,00
+0,00
+0,00
+149.948,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+149.989,23Total CBLCD
+149.948,00Valor líquido das operaçõesD
+41,23Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+7,47Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+7,47EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,73Outras BovespaD
+150.018,15Líquido para 16/08/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (18) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTAUSIMINAS          PNA N11.3008,0010.400,00D
+1-BOVESPACVISTAUSIMINAS          PNA N117.5008,00140.000,00D
+NOTA DE CORRETAGEM
+Nr. nota11887667Folha1Data pregão15/08/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+150.400,00
+0,00
+0,00
+0,00
+0,00
+150.400,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+150.441,36Total CBLCD
+150.400,00Valor líquido das operaçõesD
+41,36Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+7,49Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+7,49EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,73Outras BovespaD
+150.470,30Líquido para 20/08/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (19) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVOPCAO DE COMPRA09/18CSNAI98          ON 9,80      CSNA30.0000,267.800,00C
+NOTA DE CORRETAGEM
+Nr. nota11917791Folha1Data pregão20/08/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+0,00
+7.800,00
+0,00
+0,00
+7.800,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+7.792,44Total CBLCC
+7.800,00Valor líquido das operaçõesC
+2,14Taxa de liquidaçãoD
+5,42Taxa de RegistroD
+2,88Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+2,88EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,39I.R.R.F. s/ operações, base R$7.800,00
+0,73Outras BovespaD
+7.768,11Líquido para 21/08/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (20) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVEXERC OPC COMPRA08/18CSNA          ON 8,20D18.5008,20151.700,00C
+1-BOVESPAVEXERC OPC COMPRA08/18CSNA          ON 8,20D4.0008,2032.800,00C
+1-BOVESPACVISTASID NACIONAL          ON1.0009,179.170,00D
+1-BOVESPACVISTASID NACIONAL          OND4.2009,1738.514,00D
+1-BOVESPACVISTASID NACIONAL          OND3009,172.751,00D
+1-BOVESPACVISTASID NACIONAL          ON5.8009,1753.186,00D
+1-BOVESPACVISTASID NACIONAL          OND4.2009,1738.514,00D
+1-BOVESPACVISTASID NACIONAL          OND1009,17917,00D
+1-BOVESPACVISTASID NACIONAL          OND3009,172.751,00D
+1-BOVESPACVISTASID NACIONAL          OND1009,17917,00D
+1-BOVESPACVISTASID NACIONAL          OND9.8009,1789.866,00D
+1-BOVESPACVISTASID NACIONAL          OND4.2009,1738.514,00D
+1-BOVESPAVVISTAUSIMINAS          PNA N13.5008,2528.875,00C
+1-BOVESPAVVISTAUSIMINAS          PNA N11.0008,258.250,00C
+1-BOVESPAVVISTAUSIMINAS          PNA N111.7008,2596.525,00C
+1-BOVESPAVVISTAUSIMINAS          PNA N1#2.6008,2521.450,00C
+NOTA DE CORRETAGEM
+Nr. nota11917792Folha1Data pregão20/08/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+339.600,00
+275.100,00
+0,00
+0,00
+0,00
+0,00
+614.700,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+IRRF Day Trade: Base R$ 0,00 Projeção R$ 0,00O valor do IRRF s/ Day Trade já está descontado do Líquido da Nota
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+64.360,28Total CBLCC
+64.500,00Valor líquido das operaçõesC
+139,72Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+30,62Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+30,62EmolumentosD
+
+473,89Total corretagem / DespesasD
+
+410,52ClearingD
+0,00Execução
+0,00Execução casa
+39,61ISS (SÃO PAULO)D
+7,75I.R.R.F. s/ operações, base R$155.100,00D
+16,01Outras BovespaD
+63.855,77Líquido para 23/08/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (21) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACVISTASID NACIONAL          ON ED1008,38838,00D
+1-BOVESPACVISTASID NACIONAL          ON ED5.9008,3849.442,00D
+NOTA DE CORRETAGEM
+Nr. nota11973914Folha1Data pregão28/08/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+50.280,00
+0,00
+0,00
+0,00
+0,00
+50.280,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+50.293,82Total CBLCD
+50.280,00Valor líquido das operaçõesD
+13,82Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+2,50Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+2,50EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,73Outras BovespaD
+50.317,77Líquido para 31/08/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (22) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVOPCAO DE VENDA10/18BBASV11          ON 29,48      BBASE3.0002,266.780,00C
+1-BOVESPAVOPCAO DE VENDA10/18PETRV197          PN 19,67      PETRE4.4001,586.952,00C
+NOTA DE CORRETAGEM
+Nr. nota12049154Folha1Data pregão10/09/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+0,00
+13.732,00
+0,00
+0,00
+13.732,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+13.718,69Total CBLCC
+13.732,00Valor líquido das operaçõesC
+3,77Taxa de liquidaçãoD
+9,54Taxa de RegistroD
+5,08Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+5,08EmolumentosD
+
+42,91Total corretagem / DespesasD
+
+37,80ClearingD
+0,00Execução
+0,00Execução casa
+3,64ISS (SÃO PAULO)D
+0,68I.R.R.F. s/ operações, base R$13.732,00
+1,47Outras BovespaD
+13.670,70Líquido para 11/09/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (23) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVVISTAPETROBRAS          PN N21.60019,5331.248,00C
+1-BOVESPAVVISTAPETROBRAS          PN N210019,541.954,00C
+1-BOVESPAVVISTAPETROBRAS          PN N2#90019,5417.586,00C
+1-BOVESPAVVISTAPETROBRAS          PN N210019,531.953,00C
+1-BOVESPAVVISTAPETROBRAS          PN N2#1.50019,5329.295,00C
+1-BOVESPAVVISTAPETROBRAS          PN N23.30019,5364.449,00C
+1-BOVESPAVVISTAPETROBRAS          PN N210019,541.954,00C
+NOTA DE CORRETAGEM
+Nr. nota12050948Folha1Data pregão10/09/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+148.439,00
+0,00
+0,00
+0,00
+0,00
+0,00
+148.439,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+148.398,18Total CBLCC
+148.439,00Valor líquido das operaçõesC
+40,82Taxa de liquidaçãoD
+0,00Taxa de RegistroD
+7,25Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+7,25EmolumentosD
+
+50,33Total corretagem / DespesasD
+
+37,80ClearingD
+0,00Execução
+0,00Execução casa
+3,64ISS (SÃO PAULO)D
+7,42I.R.R.F. s/ operações, base R$148.439,00D
+1,47Outras BovespaD
+148.340,60Líquido para 13/09/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (24) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPAVOPCAO DE COMPRA10/18CSNAJ9          ON 9,00      CSNA FM36.0000,3612.960,00C
+NOTA DE CORRETAGEM
+Nr. nota12096707Folha1Data pregão17/09/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+0,00
+12.960,00
+0,00
+0,00
+12.960,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+12.947,44Total CBLCC
+12.960,00Valor líquido das operaçõesC
+3,56Taxa de liquidaçãoD
+9,00Taxa de RegistroD
+4,79Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+4,79EmolumentosD
+
+21,45Total corretagem / DespesasD
+
+18,90ClearingD
+0,00Execução
+0,00Execução casa
+1,82ISS (SÃO PAULO)D
+0,64I.R.R.F. s/ operações, base R$12.960,00
+0,73Outras BovespaD
+12.921,20Líquido para 18/09/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (25) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACOPCAO DE COMPRA10/18PETRJ22          PN 21,92      PETRD5.8000,774.466,00D
+1-BOVESPACOPCAO DE COMPRA10/18PETRJ22          PN 21,92      PETRD4.2000,773.234,00D
+1-BOVESPAVOPCAO DE COMPRA10/18PETRJ22          PN 21,92      PETRD1.9000,811.539,00C
+1-BOVESPAVOPCAO DE COMPRA10/18PETRJ22          PN 21,92      PETRD2.1000,811.701,00C
+1-BOVESPAVOPCAO DE COMPRA10/18PETRJ22          PN 21,92      PETRD6.0000,814.860,00C
+NOTA DE CORRETAGEM
+Nr. nota12189893Folha1Data pregão28/09/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+7.700,00
+8.100,00
+0,00
+0,00
+15.800,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+IRRF Day Trade: Base R$ 376,90 Projeção R$ 3,76O valor do IRRF s/ Day Trade já está descontado do Líquido da Nota
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+394,95Total CBLCC
+400,00Valor líquido das operaçõesC
+2,84Taxa de liquidaçãoD
+2,21Taxa de RegistroD
+2,05Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+2,05EmolumentosD
+
+18,16Total corretagem / DespesasD
+
+16,00ClearingD
+0,00Execução
+0,00Execução casa
+1,54ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+0,62Outras BovespaD
+370,98Líquido para 01/10/2018C
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (26) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACOPCAO DE VENDA10/18BBASV11          ON 29,41      BBASE2.8000,451.260,00D
+1-BOVESPACOPCAO DE VENDA10/18BBASV11          ON 29,41      BBASE2000,4590,00D
+1-BOVESPACOPCAO DE VENDA10/18PETRV197          PN 19,67      PETRE4.4000,19836,00D
+NOTA DE CORRETAGEM
+Nr. nota12215655Folha1Data pregão02/10/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+2.186,00
+0,00
+0,00
+0,00
+2.186,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+2.188,11Total CBLCD
+2.186,00Valor líquido das operaçõesD
+0,60Taxa de liquidaçãoD
+1,51Taxa de RegistroD
+0,80Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+0,80EmolumentosD
+
+42,91Total corretagem / DespesasD
+
+37,80ClearingD
+0,00Execução
+0,00Execução casa
+3,64ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+1,47Outras BovespaD
+2.231,82Líquido para 03/10/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (27) Break----------------
+Negócios realizados
+QNegociaçãoC/VTipo mercadoPrazoEspecificação do títuloObs. (*)QuantidadePreço / AjusteValor Operação / AjusteD/C
+1-BOVESPACOPCAO DE COMPRA11/18VALEK628          ON 61,54      VALEE1.2001,802.160,00D
+NOTA DE CORRETAGEM
+Nr. nota12263311Folha1Data pregão05/10/2018
+XP INVESTIMENTOS CCTVM S/A
+Avenida Afrânio de Melo Franco, 290 - SALA 708 LEBLON22430-060RIO DE JANEIRO - RJ
+Tel. 4003-3710   Fax: (55 800) 880-3710
+Internet: www.xpi.com.br SAC: 0800-772-0202e-mail: atendimento@xpi.com.br
+C.N.P.J: 02.332.886/0001-04Carta Patente:
+Ouvidoria: Tel. 0800.722.0202e-mail ouvidoria: ouvidoria@xpi.com.br
+Cliente2383913MATHEUS LOPES DUARTE
+R ARLINDO GOUVEIA, 145 - 3201A MADALENATel. (081) 98202-8200
+50720-595 RECIFE - PE
+0-0Participante destino do repasse-Cliente0Valor
+BancoAgênciaConta correnteAcionistaAdministrador
+261.739.028-42C.P.F./C.N.P.J/C.V.M./C.O.B.
+Código cliente3-5   2383913Assessor69695
+CustodianteC.IN
+Complemento nomeP. VincS
+0,00
+0,00
+0,00
+2.160,00
+0,00
+0,00
+0,00
+2.160,00
+Resumo dos Negócios
+Debêntures
+Vendas à vista
+Compras à vista
+Opções - compras
+Opções - vendas
+Operações à termo
+Valor das oper. c/ títulos públ. (v. nom.)
+Valor das operações
+Especificações diversas
+A coluna Q indica liquidação no Agente do Qualificado.
+(*) ObservaçõesA - Posição futuroT - Liquidação pelo Bruto
+2 - Corretora ou pessoa vinculada atuou na contra parte.C - Clubes e fundos de AçõesI - POP
+# - Negócio diretoP - Carteira Própria
+8 - Liquidação InstitucionalH - Home Broker
+D - Day TradeX - Box
+F - CoberturaY - Desmanche de Box
+B - DebênturesL - Precatório
+2.162,09Total CBLCD
+2.160,00Valor líquido das operaçõesD
+0,59Taxa de liquidaçãoD
+1,50Taxa de RegistroD
+0,79Total Bovespa / SomaD
+0,00Taxa de termo/opçõesD
+0,00Taxa A.N.A.D
+0,79EmolumentosD
+
+45,42Total corretagem / DespesasD
+
+40,00ClearingD
+0,00Execução
+0,00Execução casa
+3,86ISS (SÃO PAULO)D
+0,00I.R.R.F. s/ operações, base R$0,00
+1,56Outras BovespaD
+2.208,30Líquido para 08/10/2018D
+Resumo Financeiro
+Clearing
+Bolsa
+Corretagem / Despesas
+Observação: (1) As operações a termo não são computadas no líquido da fatura.
+----------------Page (28) Break----------------

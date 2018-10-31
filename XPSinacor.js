@@ -1,6 +1,7 @@
 module.exports = class XPSinacor {
   constructor(fileString) {
     this.data = fileString.split("\n");
+    this.raw = fileString;
   }
 
   clearingTotal() {
@@ -11,5 +12,9 @@ module.exports = class XPSinacor {
     }, 0);
 
     return amount;
+  }
+
+  totalOrders() {
+    return this.raw.match(/Negócios realizados/g).length;
   }
 }

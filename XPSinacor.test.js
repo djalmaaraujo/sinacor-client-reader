@@ -2,13 +2,17 @@ const fs = require('fs');
 const XPSinacor = require('./XPSinacor');
 const fixtureDerivatives = fs.readFileSync('./fixtures/sinacor-op-derivativos.txt', "utf8" );
 const fixtureStocks = fs.readFileSync('./fixtures/sinacor-stocks.txt', "utf8" );
-
+const fullClientFile = fs.readFileSync('./fixtures/client-full-sinacor-file.txt', "utf8" );
 
 describe('#constructor', () => {
   const lineExample = "first line\nsecond line";
 
   it('coverts content into data array', () => {
     expect(typeof new XPSinacor(lineExample).data).toEqual('object');
+  });
+
+  it('expect to have raw string', () => {
+    expect(typeof new XPSinacor(lineExample).raw).toEqual('string');
   });
 
   it('coverts content into data array of lines', () => {
@@ -37,3 +41,18 @@ describe('#clearingTotal', () => {
     expect(sinacorFileStocks.clearingTotal()).toEqual(18.9);
   })
 })
+
+describe('#totalOrders', () => {
+  it('expect to return the amount or orders in the file', () => {
+    const sinacorFile = new XPSinacor(fullClientFile);
+    expect(sinacorFile.totalOrders()).toEqual(29);
+
+    let lessOne = `${fullClientFile}`.split('\n')
+    lessOne.shift();
+    const content = lessOne.reduce((acc, line) => `${acc}\n${line}`, '');
+
+    const sinacorFile2 = new XPSinacor(content);
+    console.log(sinacorFile2.raw.toString());
+    expect(sinacorFile2.totalOrders()).toEqual(28);
+  })
+});
