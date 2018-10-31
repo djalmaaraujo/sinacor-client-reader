@@ -19,8 +19,14 @@ module.exports = class XPSinacor {
   }
 
   getClientCPF() {
-    const CPF_REGEX = /\d{3}\.\d{3}\.\d{3}-\d{2}/g;
+    const CPF_REGEX = /\d{3}\.\d{3}\.\d{3}-\d{2}/gm;
 
     return this.raw.match(CPF_REGEX)[0];
+  }
+
+  getClientId() {
+    const CLIENT_ID_REGEX = /^Cliente([0-9]+)/gm;
+
+    return this.raw.match(CLIENT_ID_REGEX)[0].replace('Cliente', '');
   }
 }

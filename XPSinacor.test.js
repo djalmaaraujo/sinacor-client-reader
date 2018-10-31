@@ -62,3 +62,10 @@ describe('#getClientCPF', () => {
     expect(sinacorFile.getClientCPF()).toEqual('884.465.220-04');
   })
 });
+
+describe('#getClientId', () => {
+  it('expect to return the first Client XP id', () => {
+    const sinacorFile = new XPSinacor(fullClientFile);
+    expect(sinacorFile.getClientId()).toEqual('7865435');
+  })
+});
