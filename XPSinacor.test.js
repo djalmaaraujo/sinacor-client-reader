@@ -52,7 +52,13 @@ describe('#totalOrders', () => {
     const content = lessOne.reduce((acc, line) => `${acc}\n${line}`, '');
 
     const sinacorFile2 = new XPSinacor(content);
-    console.log(sinacorFile2.raw.toString());
     expect(sinacorFile2.totalOrders()).toEqual(28);
+  })
+});
+
+describe('#getClientCPF', () => {
+  it('expect to return the first cpf in file', () => {
+    const sinacorFile = new XPSinacor(fullClientFile);
+    expect(sinacorFile.getClientCPF()).toEqual('884.465.220-04');
   })
 });

@@ -17,4 +17,10 @@ module.exports = class XPSinacor {
   totalOrders() {
     return this.raw.match(/Negócios realizados/g).length;
   }
+
+  getClientCPF() {
+    const CPF_REGEX = /\d{3}\.\d{3}\.\d{3}-\d{2}/g;
+
+    return this.raw.match(CPF_REGEX)[0];
+  }
 }
