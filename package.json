@@ -10,5 +10,8 @@
     "test": "jest --watch"
   },
   "author": "Djalma Araujo",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
