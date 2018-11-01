@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest"
   },
   "author": "Djalma Araujo",
   "license": "MIT",
