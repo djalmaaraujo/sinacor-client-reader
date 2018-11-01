@@ -56,16 +56,178 @@ describe('#totalOrders', () => {
   })
 });
 
-describe('#getClientCPF', () => {
+describe('#clientCPF', () => {
   it('expect to return the first cpf in file', () => {
     const sinacorFile = new XPSinacor(fullClientFile);
-    expect(sinacorFile.getClientCPF()).toEqual('884.465.220-04');
+    expect(sinacorFile.clientCPF()).toEqual('884.465.220-04');
   })
 });
 
-describe('#getClientId', () => {
+describe('#clientId', () => {
   it('expect to return the first Client XP id', () => {
     const sinacorFile = new XPSinacor(fullClientFile);
-    expect(sinacorFile.getClientId()).toEqual('7865435');
+    expect(sinacorFile.clientId()).toEqual('7865435');
   })
 });
+
+describe('#negotiations', () => {
+  it('expect to return the total negotiations', () => {
+    const sinacorFile = new XPSinacor(fullClientFile);
+    expect(sinacorFile.negotiations().length).toEqual(141);
+  })
+});
+
+describe('#negotiation', () => {
+  it('expect to return the object of a negotiation', () => {
+    const sinacorFile = new XPSinacor(fullClientFile);
+
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE VENDA06/18BBASR68          ON 26,99      BBASE FM1.2001,111.332,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE VENDA',
+      dueDate: '06/18',
+      product: 'BBASR68',
+      strikeAt: '26,99',
+      quantity: '1.200',
+      totalPerUnit: '1,11',
+      total: '1.332,00',
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE VENDA06/18CSNAR82          ON 8,20      CSNAE FM4.0000,351.400,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE VENDA',
+      dueDate: '06/18',
+      product: 'CSNAR82',
+      strikeAt: '8,20',
+      quantity: '4.000',
+      totalPerUnit: '0,35',
+      total: '1.400,00',
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE VENDA06/18PETRR96          PN 15,46      PETRE FM2.0000,731.460,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE VENDA',
+      dueDate: '06/18',
+      product: 'PETRR96',
+      strikeAt: '15,46',
+      quantity: '2.000',
+      totalPerUnit: '0,73',
+      total: '1.460,00',
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE VENDA06/18PETRR96          PN 15,46      PETRE FM1000,7373,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE VENDA',
+      dueDate: '06/18',
+      product: 'PETRR96',
+      strikeAt: '15,46',
+      quantity: '100',
+      totalPerUnit: '0,73',
+      total: '73,00',
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE VENDA10/18BBASV11          ON 29,48      BBASE3.0002,266.780,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE VENDA',
+      dueDate: '10/18',
+      product: 'BBASV11',
+      strikeAt: '29,48',
+      quantity: '3.000',
+      totalPerUnit: '2,26',
+      total: '6.780,00',
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE VENDA10/18PETRV197          PN 19,67      PETRE4.4001,586.952,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE VENDA',
+      dueDate: '10/18',
+      product: 'PETRV197',
+      strikeAt: '19,67',
+      quantity: '4.400',
+      totalPerUnit: '1,58',
+      total: '6.952,00',
+      debitCredit: 'C',
+    });
+
+
+    // EXERC OPC VENDA
+    expect(sinacorFile.negotiation('1-BOVESPACEXERC OPC VENDA06/18BBASE /EJ          ON 26,921.20026,9232.304,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'EXERC OPC VENDA',
+      dueDate: '06/18',
+      product: 'BBASE',
+      strikeAt: '26,92',
+      quantity: '1.200',
+      totalPerUnit: '26,92',
+      total: '32.304,00',
+      debitCredit: 'D',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPACEXERC OPC VENDA06/18CSNAE          ON 8,20#4.0008,2032.800,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'EXERC OPC VENDA',
+      dueDate: '06/18',
+      product: 'CSNAE',
+      strikeAt: '8,20',
+      quantity: '4.000',
+      totalPerUnit: '8,20',
+      total: '32.800,00',
+      debitCredit: 'D',
+    });
+  })
+});
+
+describe("#getNegotiationNumbers", () => {
+  it('should return the correct amounts',() => {
+    const sinacorFile = new XPSinacor(fullClientFile);
+
+    // OPCAO DE VENDA
+    expect(sinacorFile.negotiationNumbers('1.2001,111.332,00')).toEqual({
+      totalPerUnit: '1,11',
+      quantity: '1.200',
+      total: '1.332,00',
+    });
+
+    expect(sinacorFile.negotiationNumbers('2.7007,6520.655,00')).toEqual({
+      totalPerUnit: '7,65',
+      quantity: '2.700',
+      total: '20.655,00',
+    });
+
+    expect(sinacorFile.negotiationNumbers('4.0000,351.400,00')).toEqual({
+      totalPerUnit: '0,35',
+      quantity: '4.000',
+      total: '1.400,00',
+    });
+
+    expect(sinacorFile.negotiationNumbers('6.00017,73106.380,00')).toEqual({
+      totalPerUnit: '17,73',
+      quantity: '6.000',
+      total: '106.380,00',
+    });
+
+    expect(sinacorFile.negotiationNumbers('1.20027,4832.976,00')).toEqual({
+      totalPerUnit: '27,48',
+      quantity: '1.200',
+      total: '32.976,00',
+    });
+
+    expect(sinacorFile.negotiationNumbers('10.0000,242.400,00')).toEqual({
+      totalPerUnit: '0,24',
+      quantity: '10.000',
+      total: '2.400,00',
+    });
+  });
+})
