@@ -186,6 +186,19 @@ describe('#negotiation', () => {
       total: '32.800,00',
       debitCredit: 'D',
     });
+
+    expect(sinacorFile.negotiation('1-BOVESPACEXERC OPC VENDA06/18PETRE          PN 15,462.10015,4632.466,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'EXERC OPC VENDA',
+      dueDate: '06/18',
+      product: 'PETRE',
+      strikeAt: '15,46',
+      quantity: '2.100',
+      totalPerUnit: '15,46',
+      total: '32.466,00',
+      debitCredit: 'D',
+    });
   })
 });
 
