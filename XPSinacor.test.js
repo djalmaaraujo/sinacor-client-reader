@@ -88,9 +88,9 @@ describe('#negotiation', () => {
       dueDate: '06/18',
       product: 'BBASR68',
       strikeAt: '26,99',
-      quantity: '1.200',
-      totalPerUnit: '1,11',
-      total: '1.332,00',
+      quantity: 1200,
+      totalPerUnit: 1.11,
+      total: 1332,
       debitCredit: 'C',
     });
 
@@ -101,9 +101,9 @@ describe('#negotiation', () => {
       dueDate: '06/18',
       product: 'CSNAR82',
       strikeAt: '8,20',
-      quantity: '4.000',
-      totalPerUnit: '0,35',
-      total: '1.400,00',
+      quantity: 4000,
+      totalPerUnit: 0.35,
+      total: 1400,
       debitCredit: 'C',
     });
 
@@ -114,9 +114,9 @@ describe('#negotiation', () => {
       dueDate: '06/18',
       product: 'PETRR96',
       strikeAt: '15,46',
-      quantity: '2.000',
-      totalPerUnit: '0,73',
-      total: '1.460,00',
+      quantity: 2000,
+      totalPerUnit: 0.73,
+      total: 1460,
       debitCredit: 'C',
     });
 
@@ -127,9 +127,9 @@ describe('#negotiation', () => {
       dueDate: '06/18',
       product: 'PETRR96',
       strikeAt: '15,46',
-      quantity: '100',
-      totalPerUnit: '0,73',
-      total: '73,00',
+      quantity: 100,
+      totalPerUnit: 0.73,
+      total: 73,
       debitCredit: 'C',
     });
 
@@ -140,9 +140,9 @@ describe('#negotiation', () => {
       dueDate: '10/18',
       product: 'BBASV11',
       strikeAt: '29,48',
-      quantity: '3.000',
-      totalPerUnit: '2,26',
-      total: '6.780,00',
+      quantity: 3000,
+      totalPerUnit: 2.26,
+      total: 6780,
       debitCredit: 'C',
     });
 
@@ -153,9 +153,9 @@ describe('#negotiation', () => {
       dueDate: '10/18',
       product: 'PETRV197',
       strikeAt: '19,67',
-      quantity: '4.400',
-      totalPerUnit: '1,58',
-      total: '6.952,00',
+      quantity: 4400,
+      totalPerUnit: 1.58,
+      total: 6952,
       debitCredit: 'C',
     });
 
@@ -168,9 +168,9 @@ describe('#negotiation', () => {
       dueDate: '06/18',
       product: 'BBASE',
       strikeAt: '26,92',
-      quantity: '1.200',
-      totalPerUnit: '26,92',
-      total: '32.304,00',
+      quantity: 1200,
+      totalPerUnit: 26.92,
+      total: 32304,
       debitCredit: 'D',
     });
 
@@ -181,9 +181,9 @@ describe('#negotiation', () => {
       dueDate: '06/18',
       product: 'CSNAE',
       strikeAt: '8,20',
-      quantity: '4.000',
-      totalPerUnit: '8,20',
-      total: '32.800,00',
+      quantity: 4000,
+      totalPerUnit: 8.20,
+      total: 32800,
       debitCredit: 'D',
     });
 
@@ -194,12 +194,196 @@ describe('#negotiation', () => {
       dueDate: '06/18',
       product: 'PETRE',
       strikeAt: '15,46',
-      quantity: '2.100',
-      totalPerUnit: '15,46',
-      total: '32.466,00',
+      quantity: 2100,
+      totalPerUnit: 15.46,
+      total: 32466,
       debitCredit: 'D',
     });
-  })
+
+    // VISTA - ACOES
+    expect(sinacorFile.negotiation('1-BOVESPAVVISTASID NACIONAL          ON1.9007,8614.934,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'SID NACIONAL',
+      strikeAt: null,
+      quantity: 1900,
+      totalPerUnit: 7.86,
+      total: 14934,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVVISTASID NACIONAL          ON1007,86786,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'SID NACIONAL',
+      strikeAt: null,
+      quantity: 100,
+      totalPerUnit: 7.86,
+      total: 786,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVVISTAPETROBRAS          PN N26.00018,30109.800,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'PETROBRAS',
+      strikeAt: null,
+      quantity: 6000,
+      totalPerUnit: 18.30,
+      total: 109800,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVVISTAPETROBRAS          PN N22.10015,9233.432,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'PETROBRAS',
+      strikeAt: null,
+      quantity: 2100,
+      totalPerUnit: 15.92,
+      total: 33432,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVVISTAUSIMINAS          PNA N1D4008,003.200,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'USIMINAS',
+      strikeAt: null,
+      quantity: 400,
+      totalPerUnit: 8,
+      total: 3200,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPACVISTAUSIMINAS          PNA N117.5008,00140.000,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'USIMINAS',
+      strikeAt: null,
+      quantity: 17500,
+      totalPerUnit: 8,
+      total: 140000,
+      debitCredit: 'D',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPACVISTASID NACIONAL          ON ED5.9008,3849.442,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'SID NACIONAL',
+      strikeAt: null,
+      quantity: 5900,
+      totalPerUnit: 8.38,
+      total: 49442,
+      debitCredit: 'D',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPACVISTASID NACIONAL          ON ED1008,38838,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'SID NACIONAL',
+      strikeAt: null,
+      quantity: 100,
+      totalPerUnit: 8.38,
+      total: 838,
+      debitCredit: 'D',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVVISTAUSIMINAS          PNA N1#2.6008,2521.450,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'USIMINAS',
+      strikeAt: null,
+      quantity: 2600,
+      totalPerUnit: 8.25,
+      total: 21450,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPACVISTASID NACIONAL          ON#3.2007,6524.480,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'SID NACIONAL',
+      strikeAt: null,
+      quantity: 3200,
+      totalPerUnit: 7.65,
+      total: 24480,
+      debitCredit: 'D',
+    });
+
+    // OPCAO DE COMPRA
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE COMPRA07/18BBASG275          ON 27,48      BBAS FM1.2001,151.380,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE COMPRA',
+      dueDate: '07/18',
+      product: 'BBASG275',
+      strikeAt: '27,48',
+      quantity: 1200,
+      totalPerUnit: 1.15,
+      total: 1380,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE COMPRA08/18CSNAH82          ON 8,20      CSNA FM22.5000,409.000,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE COMPRA',
+      dueDate: '08/18',
+      product: 'CSNAH82',
+      strikeAt: '8,20',
+      quantity: 22500,
+      totalPerUnit: 0.40,
+      total: 9000,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVOPCAO DE COMPRA09/18CSNAI98          ON 9,80      CSNA30.0000,267.800,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'OPCAO DE COMPRA',
+      dueDate: '09/18',
+      product: 'CSNAI98',
+      strikeAt: '9,80',
+      quantity: 30000,
+      totalPerUnit: 0.26,
+      total: 7800,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPACOPCAO DE COMPRA08/18VALEH586          ON 58,22      VALEE6.2000,281.736,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'OPCAO DE COMPRA',
+      dueDate: '08/18',
+      product: 'VALEH586',
+      strikeAt: '58,22',
+      quantity: 6200,
+      totalPerUnit: 0.28,
+      total: 1736,
+      debitCredit: 'D',
+    });
+  });
 });
 
 describe("#getNegotiationNumbers", () => {
@@ -208,39 +392,39 @@ describe("#getNegotiationNumbers", () => {
 
     // OPCAO DE VENDA
     expect(sinacorFile.negotiationNumbers('1.2001,111.332,00')).toEqual({
-      totalPerUnit: '1,11',
-      quantity: '1.200',
-      total: '1.332,00',
+      totalPerUnit: 1.11,
+      quantity: 1200,
+      total: 1332,
     });
 
     expect(sinacorFile.negotiationNumbers('2.7007,6520.655,00')).toEqual({
-      totalPerUnit: '7,65',
-      quantity: '2.700',
-      total: '20.655,00',
+      totalPerUnit: 7.65,
+      quantity: 2700,
+      total: 20655,
     });
 
     expect(sinacorFile.negotiationNumbers('4.0000,351.400,00')).toEqual({
-      totalPerUnit: '0,35',
-      quantity: '4.000',
-      total: '1.400,00',
+      totalPerUnit: 0.35,
+      quantity: 4000,
+      total: 1400,
     });
 
     expect(sinacorFile.negotiationNumbers('6.00017,73106.380,00')).toEqual({
-      totalPerUnit: '17,73',
-      quantity: '6.000',
-      total: '106.380,00',
+      totalPerUnit: 17.73,
+      quantity: 6000,
+      total: 106380,
     });
 
     expect(sinacorFile.negotiationNumbers('1.20027,4832.976,00')).toEqual({
-      totalPerUnit: '27,48',
-      quantity: '1.200',
-      total: '32.976,00',
+      totalPerUnit: 27.48,
+      quantity: 1200,
+      total: 32976,
     });
 
     expect(sinacorFile.negotiationNumbers('10.0000,242.400,00')).toEqual({
-      totalPerUnit: '0,24',
-      quantity: '10.000',
-      total: '2.400,00',
+      totalPerUnit: 0.24,
+      quantity: 10000,
+      total: 2400,
     });
   });
 })

@@ -1,15 +1,16 @@
 const MARKET_TYPES = [
   'OPCAO DE VENDA',
   'EXERC OPC VENDA',
-  'OPCAO DE COMPRA',
   'VISTA',
+  'OPCAO DE COMPRA',
   'TERMO',
 ];
 
 const MARKET_TYPES_REGEX = [
   /([A-Z]{1})OPCAO DE VENDA(\d{2}\/\d{2})(\w+)(.*)([A-Z]{2}) (\d+,+[0-9]{2})(.*)([A-Z]{1})/,
   /([A-Z]{1})EXERC OPC VENDA(\d{2}\/\d{2})(\w+)(.*)([A-Z]{2}) (\d+,+[0-9]{2})(.*)([A-Z]{1})/,
-  'xX123213',
+  /([A-Z]{1})VISTA([\w ]*)([A-Z]{2})(.*)([A-Z]{1})/, // https://regex101.com/r/1KwBWJ/1
+  /([A-Z]{1})OPCAO DE COMPRA(\d{2}\/\d{2})(\w+)(.*)([A-Z]{2}) (\d+,+[0-9]{2})(.*)([A-Z]{1})/,
   '222323232'
 ]
 
@@ -62,15 +63,59 @@ module.exports = class XPSinacor {
     delete values.input;
 
     const negotiationNumbers = this.negotiationNumbers(values[values.length - 2].trim());
+    const quantity = Math.round(negotiationNumbers.total / negotiationNumbers.totalPerUnit);
+    const type = (values[0] === 'V') ? 'sell' : 'buy';
+    let result = {};
+
+    switch (marketType) {
+      case 'VISTA':
+        result = this.negotiationVista(values, negotiationNumbers);
+        break;
+
+      default:
+        result = this.negotiationDefault(values, negotiationNumbers);
+    }
+
+    const defaultParams = {
+      negotiation,
+      quantity,
+      type,
+      marketType
+    };
 
     return {
-      negotiation,
-      type: (values[0] === "V") ? 'sell' : "buy",
-      marketType,
+      ...defaultParams,
+      ...result
+    };
+  }
+
+  convertNumber(n) {
+    n = n.replace('.', '');
+    n = n.replace(',', '.');
+
+    return parseFloat(n);
+  }
+
+  parseProductName(p) {
+    return p.trim().split('          ')[0]; // too fragile
+  }
+
+  negotiationDefault(values, negotiationNumbers) {
+    return {
       dueDate: values[1],
-      product: values[2],
+      product: this.parseProductName(values[2]),
       strikeAt: values[5],
-      quantity: negotiationNumbers.quantity,
+      totalPerUnit: negotiationNumbers.totalPerUnit,
+      total: negotiationNumbers.total,
+      debitCredit: values[values.length - 1],
+    };
+  }
+
+  negotiationVista(values, negotiationNumbers) {
+    return {
+      dueDate: null,
+      product: this.parseProductName(values[1]),
+      strikeAt: null,
       totalPerUnit: negotiationNumbers.totalPerUnit,
       total: negotiationNumbers.total,
       debitCredit: values[values.length - 1],
@@ -86,9 +131,15 @@ module.exports = class XPSinacor {
     const quantityString = a.substring(0, firstCommaPosition - start)
     const totalPerUnitAndMore = a.substring(firstCommaPosition - start)
     const secondCommaPosition = totalPerUnitAndMore.indexOf(',')
-    const totalPerUnit = totalPerUnitAndMore.substring(0, secondCommaPosition + 3)
-    const total = totalPerUnitAndMore.substring(secondCommaPosition + 3)
-    const quantity = quantityString.match(/([0-9].+)/)[0];
+
+    let totalPerUnit = totalPerUnitAndMore.substring(0, secondCommaPosition + 3)
+    let total = totalPerUnitAndMore.substring(secondCommaPosition + 3)
+    let quantity = quantityString.match(/([0-9].+)/)[0];
+
+    // Parse to numbers
+    total = this.convertNumber(total);
+    totalPerUnit = this.convertNumber(totalPerUnit);
+    quantity = this.convertNumber(quantity);
 
     return {
       totalPerUnit,
