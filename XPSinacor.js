@@ -9,9 +9,9 @@ const MARKET_TYPES = [
 const MARKET_TYPES_REGEX = [
   /([A-Z]{1})OPCAO DE VENDA(\d{2}\/\d{2})(\w+)(.*)([A-Z]{2}) (\d+,+[0-9]{2})(.*)([A-Z]{1})/,
   /([A-Z]{1})EXERC OPC VENDA(\d{2}\/\d{2})(\w+)(.*)([A-Z]{2}) (\d+,+[0-9]{2})(.*)([A-Z]{1})/,
-  /([A-Z]{1})VISTA([\w ]*)([A-Z]{2})(.*)([A-Z]{1})/, // https://regex101.com/r/1KwBWJ/1
+  /([A-Z]{1})VISTA([\w ]*)([A-Z]{2})(.*)([A-Z]{1})/,
   /([A-Z]{1})OPCAO DE COMPRA(\d{2}\/\d{2})(\w+)(.*)([A-Z]{2}) (\d+,+[0-9]{2})(.*)([A-Z]{1})/,
-  '222323232'
+  /([A-Z]{1})TERMO(\d{2})([\w ]*)([A-Z]{2})#(.*)([A-Z]{1})/,
 ]
 
 module.exports = class XPSinacor {
@@ -63,24 +63,30 @@ module.exports = class XPSinacor {
     delete values.input;
 
     const negotiationNumbers = this.negotiationNumbers(values[values.length - 2].trim());
-    const quantity = Math.round(negotiationNumbers.total / negotiationNumbers.totalPerUnit);
+
+    const quantity = negotiationNumbers.quantity;
+    const totalPerUnit = negotiationNumbers.totalPerUnit;
+    const total = negotiationNumbers.total;
+
     const type = (values[0] === 'V') ? 'sell' : 'buy';
     let result = {};
 
     switch (marketType) {
       case 'VISTA':
-        result = this.negotiationVista(values, negotiationNumbers);
+        result = this.negotiationVista(values);
         break;
 
       default:
-        result = this.negotiationDefault(values, negotiationNumbers);
+        result = this.negotiationDefault(values);
     }
 
     const defaultParams = {
       negotiation,
       quantity,
+      totalPerUnit,
+      total,
       type,
-      marketType
+      marketType,
     };
 
     return {
@@ -100,51 +106,139 @@ module.exports = class XPSinacor {
     return p.trim().split('          ')[0]; // too fragile
   }
 
-  negotiationDefault(values, negotiationNumbers) {
+  negotiationDefault(values) {
     return {
       dueDate: values[1],
       product: this.parseProductName(values[2]),
       strikeAt: values[5],
-      totalPerUnit: negotiationNumbers.totalPerUnit,
-      total: negotiationNumbers.total,
       debitCredit: values[values.length - 1],
     };
   }
 
-  negotiationVista(values, negotiationNumbers) {
+  negotiationVista(values) {
     return {
       dueDate: null,
       product: this.parseProductName(values[1]),
       strikeAt: null,
-      totalPerUnit: negotiationNumbers.totalPerUnit,
-      total: negotiationNumbers.total,
       debitCredit: values[values.length - 1],
     };
   }
 
-  negotiationNumbers(a) {
-    const firstCommaPosition = a.indexOf(",")
-    let start = 1
+  negotiationNumbers(rawLine) {
+    const line = rawLine.match(/([0-9\.,]).*/)[0];
+    const lineSize = line.length;
 
-    while (a[firstCommaPosition - start - 1] != 0 || a[firstCommaPosition - start - 2] != 0) { start = start + 1 }
+    // This will split into ,00
+    let commaParts = line.split(/(\,[0-9]{2})/);
+    commaParts.splice(-1);
 
-    const quantityString = a.substring(0, firstCommaPosition - start)
-    const totalPerUnitAndMore = a.substring(firstCommaPosition - start)
-    const secondCommaPosition = totalPerUnitAndMore.indexOf(',')
+    // Set total = last 2 indexes
+    const totalStr = `${commaParts.slice(-2)[0]}${commaParts.slice(-1)[0]}`;
+    const total = this.convertNumber(totalStr);
+    const totalPerUnitCentsStr = commaParts.slice(-3)[0];
 
-    let totalPerUnit = totalPerUnitAndMore.substring(0, secondCommaPosition + 3)
-    let total = totalPerUnitAndMore.substring(secondCommaPosition + 3)
-    let quantity = quantityString.match(/([0-9].+)/)[0];
+    // Set new line without the total numbers and the cents
+    let lineLeft = line.substring(0, lineSize - (totalPerUnitCentsStr.length + totalStr.length));
 
-    // Parse to numbers
-    total = this.convertNumber(total);
-    totalPerUnit = this.convertNumber(totalPerUnit);
-    quantity = this.convertNumber(quantity);
+    let totals = false;
+
+    if (totals = this.find1kMoreQty(lineLeft, totalPerUnitCentsStr, total)) {
+      return totals;
+    }
+
+    if (totals = this.tryQtyLessThan1k(lineLeft, totalPerUnitCentsStr, total)) {
+      return totals;
+    }
 
     return {
+      totalPerUnit: 0,
+      quantity: 0,
+      total: 0,
+    };
+  }
+
+  // qty < 1000
+  tryQtyLessThan1k(lineLeft, totalPerUnitCentsStr, total) {
+    // For sure qty is < 1000
+    // Try first number before comma as the perUnit value and go one
+    const line = this.removeNaNChars(lineLeft);
+    const startPerUnit = line.length - 1;
+
+    return this.tryWalkPerUnit(lineLeft, startPerUnit, totalPerUnitCentsStr, total);
+  }
+
+  // 5108 ,45
+  // 510  8,45
+  // 51   08,45
+  // 5    108,45
+  tryWalkPerUnit(lineLeft, startPerUnit, totalPerUnitCentsStr, total) {
+    if (startPerUnit == 0) return false;
+
+    const quantity = this.convertNumber(lineLeft.substring(0, startPerUnit));
+    const totalPerUnit = this.convertNumber(`${lineLeft.substring(startPerUnit)}${totalPerUnitCentsStr}`);
+
+    const testTotal = parseFloat((totalPerUnit * quantity).toFixed(2));
+
+    let result = {
       totalPerUnit,
       quantity,
       total,
+    };
+
+    if (testTotal === total) {
+      return result;
     }
+
+    if (result = this.tryWalkQty(quantity, totalPerUnit, total)) {
+      return result;
+    }
+
+    startPerUnit--;
+
+    return this.tryWalkPerUnit(lineLeft, startPerUnit, totalPerUnitCentsStr, total);
+  }
+
+  // qty > 1000
+  find1kMoreQty(lineLeft, totalPerUnitCentsStr, total) {
+    // Find . (Maybe qty is > 1000)
+    const findDot = lineLeft.split('.');
+
+    // one . found
+    if (findDot.length === 2) {
+      const qtyStart = findDot[0];
+      const qtyEnd = findDot[1].substring(0, 3);
+      const qty = `${qtyStart}.${qtyEnd}`;
+      const leftInLine = lineLeft.substring(qty.length);
+      const perUnit = `${leftInLine}${totalPerUnitCentsStr}`;
+
+      const quantity = this.convertNumber(qty);
+      const totalPerUnit = this.convertNumber(perUnit);
+
+      return this.tryWalkQty(quantity, totalPerUnit, total);
+    }
+
+    return false;
+  }
+
+  tryWalkQty(quantity, totalPerUnit, total) {
+    if (quantity === '') return false;
+
+    quantity = parseFloat(quantity);
+
+    const testTotal = parseFloat((totalPerUnit * quantity).toFixed(2));
+
+    if (testTotal === total) {
+      return {
+        totalPerUnit,
+        quantity,
+        total,
+      };
+    }
+
+    return this.tryWalkQty(quantity.toString().substring(1), totalPerUnit, total);
+  }
+
+  removeNaNChars(line) {
+    return line.split('').filter(char => !isNaN(char)).join('');
   }
 }
