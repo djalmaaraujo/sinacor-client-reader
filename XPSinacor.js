@@ -62,7 +62,8 @@ module.exports = class XPSinacor {
     delete values.index;
     delete values.input;
 
-    const negotiationNumbers = this.negotiationNumbers(values[values.length - 2].trim());
+    const numbersLine = values[values.length - 2].trim();
+    const negotiationNumbers = this.negotiationNumbers(numbersLine);
 
     const quantity = negotiationNumbers.quantity;
     const totalPerUnit = negotiationNumbers.totalPerUnit;
@@ -162,20 +163,21 @@ module.exports = class XPSinacor {
     // For sure qty is < 1000
     // Try first number before comma as the perUnit value and go one
     const line = this.removeNaNChars(lineLeft);
+
     const startPerUnit = line.length - 1;
 
-    return this.tryWalkPerUnit(lineLeft, startPerUnit, totalPerUnitCentsStr, total);
+    return this.tryWalkPerUnit(line, startPerUnit, totalPerUnitCentsStr, total);
   }
 
   // 5108 ,45
   // 510  8,45
   // 51   08,45
   // 5    108,45
-  tryWalkPerUnit(lineLeft, startPerUnit, totalPerUnitCentsStr, total) {
+  tryWalkPerUnit(line, startPerUnit, totalPerUnitCentsStr, total) {
     if (startPerUnit == 0) return false;
 
-    const quantity = this.convertNumber(lineLeft.substring(0, startPerUnit));
-    const totalPerUnit = this.convertNumber(`${lineLeft.substring(startPerUnit)}${totalPerUnitCentsStr}`);
+    const quantity = this.convertNumber(line.substring(0, startPerUnit));
+    const totalPerUnit = this.convertNumber(`${line.substring(startPerUnit)}${totalPerUnitCentsStr}`);
 
     const testTotal = parseFloat((totalPerUnit * quantity).toFixed(2));
 
@@ -195,12 +197,13 @@ module.exports = class XPSinacor {
 
     startPerUnit--;
 
-    return this.tryWalkPerUnit(lineLeft, startPerUnit, totalPerUnitCentsStr, total);
+    return this.tryWalkPerUnit(line, startPerUnit, totalPerUnitCentsStr, total);
   }
 
   // qty > 1000
   find1kMoreQty(lineLeft, totalPerUnitCentsStr, total) {
     // Find . (Maybe qty is > 1000)
+    const line = this.removeNaNChars(lineLeft);
     const findDot = lineLeft.split('.');
 
     // one . found

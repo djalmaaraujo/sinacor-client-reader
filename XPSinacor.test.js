@@ -253,19 +253,6 @@ describe('#negotiation', () => {
       debitCredit: 'C',
     });
 
-    // expect(sinacorFile.negotiation('1-BOVESPAVVISTAUSIMINAS          PNA N1D4008,003.200,00C')).toEqual({
-    //   negotiation: '1-BOVESPA',
-    //   type: 'sell',
-    //   marketType: 'VISTA',
-    //   dueDate: null,
-    //   product: 'USIMINAS',
-    //   strikeAt: null,
-    //   quantity: 400,
-    //   totalPerUnit: 8,
-    //   total: 3200,
-    //   debitCredit: 'C',
-    // });
-
     expect(sinacorFile.negotiation('1-BOVESPACVISTAUSIMINAS          PNA N117.5008,00140.000,00D')).toEqual({
       negotiation: '1-BOVESPA',
       type: 'buy',
@@ -304,19 +291,6 @@ describe('#negotiation', () => {
       total: 838,
       debitCredit: 'D',
     });
-
-    // expect(sinacorFile.negotiation('1-BOVESPAVVISTAUSIMINAS          PNA N1#2.6008,2521.450,00C')).toEqual({
-    //   negotiation: '1-BOVESPA',
-    //   type: 'sell',
-    //   marketType: 'VISTA',
-    //   dueDate: null,
-    //   product: 'USIMINAS',
-    //   strikeAt: null,
-    //   quantity: 2600,
-    //   totalPerUnit: 8.25,
-    //   total: 21450,
-    //   debitCredit: 'C',
-    // });
 
     expect(sinacorFile.negotiation('1-BOVESPACVISTASID NACIONAL          ON#3.2007,6524.480,00D')).toEqual({
       negotiation: '1-BOVESPA',
@@ -384,18 +358,45 @@ describe('#negotiation', () => {
       debitCredit: 'D',
     });
 
-    // expect(sinacorFile.negotiation('1-BOVESPACVISTAUSIMINAS          PNA N1D12.8007,7599.200,00D')).toEqual({
-    //   negotiation: '1-BOVESPA',
-    //   type: 'buy',
-    //   marketType: 'OPCAO DE COMPRA',
-    //   dueDate: '08/18',
-    //   product: 'VALEH586',
-    //   strikeAt: '58,22',
-    //   quantity: 6200,
-    //   totalPerUnit: 0.28,
-    //   total: 1736,
-    //   debitCredit: 'D',
-    // });
+    // VISTA PLUS
+    expect(sinacorFile.negotiation('1-BOVESPAVVISTAUSIMINAS          PNA N1D4008,003.200,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'USIMINAS',
+      strikeAt: null,
+      quantity: 400,
+      totalPerUnit: 8,
+      total: 3200,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPAVVISTAUSIMINAS          PNA N1#2.6008,2521.450,00C')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'sell',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'USIMINAS',
+      strikeAt: null,
+      quantity: 2600,
+      totalPerUnit: 8.25,
+      total: 21450,
+      debitCredit: 'C',
+    });
+
+    expect(sinacorFile.negotiation('1-BOVESPACVISTAUSIMINAS          PNA N1D12.8007,7599.200,00D')).toEqual({
+      negotiation: '1-BOVESPA',
+      type: 'buy',
+      marketType: 'VISTA',
+      dueDate: null,
+      product: 'USIMINAS',
+      strikeAt: null,
+      quantity: 12800,
+      totalPerUnit: 7.75,
+      total: 99200,
+      debitCredit: 'D',
+    });
   });
 });
 
@@ -502,10 +503,22 @@ describe("#getNegotiationNumbers", () => {
       total: 786,
     });
 
-    // expect(sinacorFile.negotiationNumbers('PNA N1D1007,86786,00')).toEqual({
-    //   totalPerUnit: 7.86,
-    //   quantity: 100,
-    //   total: 786,
-    // });
+    expect(sinacorFile.negotiationNumbers('N1D4008,003.200,00')).toEqual({
+      totalPerUnit: 8.00,
+      quantity: 400,
+      total: 3200,
+    });
+
+    expect(sinacorFile.negotiationNumbers('N1D12.8007,7599.200,00')).toEqual({
+      totalPerUnit: 7.75,
+      quantity: 12800,
+      total: 99200,
+    });
+
+    expect(sinacorFile.negotiationNumbers('PNA N1D1007,86786,00')).toEqual({
+      totalPerUnit: 7.86,
+      quantity: 100,
+      total: 786,
+    });
   });
 })
