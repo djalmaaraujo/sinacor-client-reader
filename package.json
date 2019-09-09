@@ -13,5 +13,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
   }
 }

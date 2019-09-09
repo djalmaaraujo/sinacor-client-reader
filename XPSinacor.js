@@ -47,7 +47,7 @@ module.exports = class XPSinacor {
   }
 
   negotiations() {
-    return this.data.filter(line => line.startsWith('1-BOVESPA'))
+    return this.data.filter(line => line.startsWith('N1-BOVESPA'))
   }
 
   negotiation(line) {

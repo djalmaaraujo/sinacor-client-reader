@@ -1,12 +1,3 @@
-# SINACOR-client-reader
-
-Interpretador do padrão SINACOR com leitura através do PDF contendo todas as notas de corretagem.
-
-# Usage
-
-Listar as negociações de uma nota de corretagem:
-
-```
 const fs = require("fs");
 const pdf = require('pdf-parse');
 const XPSinacor = require('./XPSinacor');
@@ -22,4 +13,6 @@ pdf(dataBuffer).then(function(data) {
         console.log(nota.negotiation(line));
     });   
 });
-```
+
+
+
