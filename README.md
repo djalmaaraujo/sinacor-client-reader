@@ -7,7 +7,7 @@ Interpretador do padrão SINACOR com leitura através do PDF contendo todas as n
 
 Listar as negociações de uma nota de corretagem:
 
-```
+```javascript
 const fs = require("fs");
 const pdf = require('pdf-parse');
 const XPSinacor = require('./XPSinacor');
