@@ -103,8 +103,16 @@ module.exports = class XPSinacor {
     return parseFloat(n);
   }
 
+  // too fragile
   parseProductName(p) {
-    return p.trim().split('          ')[0]; // too fragile
+    let pNew = (p.trim().split('          '))
+    if(pNew[1])
+    {
+      pNew[1] = pNew.pop();
+      if(pNew[1] === 'PN' || pNew[1] === 'ON')
+      pNew[0] = pNew[0] + ' '+pNew[1]
+    }
+    return pNew[0]; 
   }
 
   negotiationDefault(values) {
