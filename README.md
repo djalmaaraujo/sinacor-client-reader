@@ -2,7 +2,7 @@
 
 Interpretador do padrão SINACOR com leitura através do PDF contendo todas as notas de corretagem.
 
-# Usage
+# Utilização
 
 Listar as negociações de uma nota de corretagem:
 
